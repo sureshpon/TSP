@@ -1,6 +1,6 @@
 TSP
 
-Traveling Salesman problem, identified as NP-hard problem in optimization. This is just a fun way of implementing not only using plain C# (arrays, loops, conditionals) but also extensively using LINQ and .NET collections. In performance-critical scenarios, it may force to avoid high-level .NET language features. 
+Traveling Salesman problem, identified as NP-hard problem in optimization. This project is just a fun way of implementing not only using plain C# (arrays, loops, conditionals) but also extensively using LINQ and .NET collections. In performance-critical scenarios, it may force to avoid high-level .NET language features. 
 
 The following assumptions are made.
 1. Traveling city details are read from a file called Travel.data. File only has valid entries.
