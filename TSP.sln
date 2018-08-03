@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{58C2B13E-E5A5-49B5-80ED-DFF68B498CA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelScheduler", "TravelScheduler\TravelScheduler.csproj", "{41C1B5FC-AF02-4D38-8486-C2B2EA8F6783}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58C2B13E-E5A5-49B5-80ED-DFF68B498CA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58C2B13E-E5A5-49B5-80ED-DFF68B498CA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58C2B13E-E5A5-49B5-80ED-DFF68B498CA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58C2B13E-E5A5-49B5-80ED-DFF68B498CA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41C1B5FC-AF02-4D38-8486-C2B2EA8F6783}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41C1B5FC-AF02-4D38-8486-C2B2EA8F6783}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41C1B5FC-AF02-4D38-8486-C2B2EA8F6783}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41C1B5FC-AF02-4D38-8486-C2B2EA8F6783}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C45C73D6-B4B9-4BAF-9F81-A2CEF2032492}
+	EndGlobalSection
+EndGlobal
